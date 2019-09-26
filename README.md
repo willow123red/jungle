@@ -2,6 +2,10 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+
+!["Admin Products"](https://github.com/willow123red/jungle/blob/master/docs/Admin-products.png)
+!["My-Cart"](https://github.com/willow123red/jungle/blob/master/docs/My-Cart.png)
 
 ## Setup
 
